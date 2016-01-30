@@ -1,0 +1,21 @@
+git branch
+
+git pull
+
+git branch --set-upstream-to=origin/master master
+
+git fetch
+
+git status
+
+git diff
+
+git rebase
+
+got log
+
+git push
+
+yum install gitg
+
+git remote -v
